@@ -40,26 +40,6 @@ function ifElseTest() {
 }
 
 function ternaryOperatorTest() {
-    /*
-     * Requirements: can be used only as right value in assignment statement or
-     *               as return value in a function.
-     * Syntax:
-     *              if()                    else
-     *          <condition> ? <if true> : <if false>
-     *
-     * Example:
-     *      var a = 5;
-     *      var b = 10;
-     *      var min = a < b ? a : b; // min equals to a,
-     *                               // if a less then b
-     *                               // else equals to b
-     *
-     *              if(a < b) {
-     *                 min = a;
-     *              } else {
-     *                 min = b;
-     *              }
-     */
 
     var a = read('a');
     var b = read('b');
