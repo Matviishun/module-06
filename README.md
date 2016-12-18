@@ -82,3 +82,6 @@ function additor() {
     var b = +(prompt("Please, enter 'b' number:",
                     'enter number here...'));
     print('a(' + a + ') + b(' + b + ') = ' + (a + b));
+    
+    
+    link on project: https://matviishun.github.io/module-06/
